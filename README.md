@@ -1,20 +1,18 @@
 EasingCurvePresets
 ==================
 
-A generated AnimationCurve presets from Penner's easing functions.
+The generated AnimationCurve presets from Penner's easing functions.
 
-![](ss.png)
+![Screenshot](ss.png)
 
 Usage
 -----
 
-Copy [the .curves file](Assets/Editor/EasingCurves.curves) into your Assets/Editor directory. That's it.
-
-If you want to change sampling rate, then edit CurveGenerator.cs, then click "Assets > Create > EasingCurves". It will re-generate the .curves file.
+Download [the .curves file](https://raw.githubusercontent.com/nobutaka/EasingCurvePresets/master/Assets/Editor/EasingCurves.curves) into your Assets/Editor directory. That's it.
 
 License
 -------
 
 [BSD](http://opensource.org/licenses/bsd-license.php).
 
-Thanks to [Robert Penner](http://robertpenner.com/easing/) and [Darren David](http://wpf-animation.googlecode.com/svn/trunk/src/WPF/Animation/PennerDoubleAnimation.cs).
+Thank you to [Robert Penner](http://robertpenner.com/easing/) and [Darren David](http://wpf-animation.googlecode.com/svn/trunk/src/WPF/Animation/PennerDoubleAnimation.cs).
