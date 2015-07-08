@@ -8,9 +8,9 @@ A generated AnimationCurve presets from Penner's easing functions.
 Usage
 -----
 
-Copy [the .curve file](Assets/Editor/EasingCurve.curves) into your Assets/Editor directory. That's it.
+Copy [the .curves file](Assets/Editor/EasingCurves.curves) into your Assets/Editor directory. That's it.
 
-If you want to change sampling rate, then edit CurveGenerator.cs, then click "Assets > Create > EasingCurves". It will re-generate the .curve file.
+If you want to change sampling rate, then edit CurveGenerator.cs, then click "Assets > Create > EasingCurves". It will re-generate the .curves file.
 
 License
 -------
