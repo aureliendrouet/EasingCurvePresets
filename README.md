@@ -1,7 +1,7 @@
 EasingCurvePresets
 ==================
 
-The generated AnimationCurve presets from Penner's easing functions.
+The generated AnimationCurve presets from Penner's easing functions. It is useful to use with NGUI's Tweener.
 
 ![Screenshot](ss.png)
 
